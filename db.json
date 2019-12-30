@@ -1,29 +1,29 @@
 {
 "Authors" :[ {
   "authorId":1,
-  "firstName": "Johnson",
+  "firstName": "James",
   "lastName":"White",  
   "phone":"408-496-7223",
   "city":"Menlo Park",
-  "emailAddress":"johnson.white@gmail.com",
+  "emailAddress":"james.white@gmail.com",
   "salary":11000 
   },
   {
   "authorId":2,
-  "firstName": "Marjorie",
+  "firstName": "Mary",
   "lastName":"Green",  
   "phone":"415-986-7020",
   "city":"Oakland",
-  "emailAddress":"marjorie.green@gmail.com",
+  "emailAddress":"mary.green@gmail.com",
   "salary":22000 
   },
   {
   "authorId":3,
-  "firstName": "Cheryl",
+  "firstName": "Carl",
   "lastName":"Carson",  
   "phone":"415-548-7723",
   "city":"Berkley",
-  "emailAddress":"cheryl.carson@gmail.com",
+  "emailAddress":"carl.carson@gmail.com",
   "salary":39000 
   },
   {

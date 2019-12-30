@@ -1,4 +1,5 @@
- [ {
+{
+"Authors" :[ {
   "authorId":1,
   "firstName": "Johnson",
   "lastName":"White",  
@@ -43,3 +44,4 @@
   "emailAddress":"dean.straight@gmail.com",
   "salary":29000 
   }]
+}

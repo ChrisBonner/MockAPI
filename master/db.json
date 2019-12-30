@@ -1,0 +1,47 @@
+[
+  {
+  "authorId":1,
+  "firstName": "Johnson",
+  "lastName":"White",  
+  "phone":"408-496-7223",
+  "city":"Menlo Park",
+  "emailAddress":"johnson.white@gmail.com",
+  "salary":11000 
+  },
+  {
+  "authorId":2,
+  "firstName": "Marjorie",
+  "lastName":"Green",  
+  "phone":"415-986-7020",
+  "city":"Oakland",
+  "emailAddress":"marjorie.green@gmail.com",
+  "salary":22000 
+  },
+  {
+  "authorId":3,
+  "firstName": "Cheryl",
+  "lastName":"Carson",  
+  "phone":"415-548-7723",
+  "city":"Berkley",
+  "emailAddress":"cheryl.carson@gmail.com",
+  "salary":39000 
+  },
+  {
+  "authorId":4,
+  "firstName": "Michael",
+  "lastName":"O'Leary",  
+  "phone":"408-286-2428",
+  "city":"San Jose",
+  "emailAddress":"michael.oleary@gmail.com",
+  "salary":31000 
+  },
+  {
+  "authorId":5,
+  "firstName": "Dean",
+  "lastName":"Straight",  
+  "phone":"415-834-2919",
+  "city":"Oakland",
+  "emailAddress":"dean.straight@gmail.com",
+  "salary":29000 
+  },
+]
